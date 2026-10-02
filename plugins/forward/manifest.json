@@ -1,0 +1,14 @@
+{
+  "name": "Forward Plus",
+  "description": "Removes the 5-destination limit when forwarding messages and keeps you in your current channel after forwarding.",
+  "authors": [
+    {
+      "name": "Atakan"
+    }
+  ],
+  "main": "index.js",
+  "vendetta": {
+    "icon": "ic_forward_24px"
+  },
+  "hash": "231b34a721ebc3edb7d668ca8850c0fe7223aec441c5ae11343a31aef8c4dc4b"
+}
