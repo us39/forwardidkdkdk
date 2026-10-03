@@ -1,11 +1,7 @@
 {
   "name": "Forward Debug",
   "description": "Diagnostic only: after you forward a message, copies info about the forward limit and channel jump to your clipboard.",
-  "authors": [
-    {
-      "name": "Atakan"
-    }
-  ],
+  "authors": [{ "name": "us39" }],
   "main": "index.js",
   "hash": "0da082ae19663aec03ff30a463cf8a258b5d62d7aa4a5eb40a0ef4488faab6f2"
 }
